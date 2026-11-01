@@ -4,7 +4,7 @@
 
 **Одна ручка — и звук становится лучше.**
 
-[![Скачать](https://img.shields.io/github/v/release/koshkaasobakaa-max/zvukouluchshator?label=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C&style=for-the-badge&color=c8641e)](https://github.com/koshkaasobakaa-max/zvukouluchshator/releases/latest)
+[![Скачать](https://img.shields.io/github/v/release/FATnvStudio/zvukouluchshator?label=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C&style=for-the-badge&color=c8641e)](https://github.com/FATnvStudio/zvukouluchshator/releases/latest)
 &nbsp;
 ![VST3](https://img.shields.io/badge/VST3-macOS%20%C2%B7%20Windows-5a3a28?style=for-the-badge)
 &nbsp;
@@ -48,7 +48,7 @@
 
 ## Установка
 
-Скачайте архив для своей системы на странице **[Releases](https://github.com/koshkaasobakaa-max/zvukouluchshator/releases/latest)**. Внутри лежит подробная инструкция `INSTALL-*.txt`.
+Скачайте архив для своей системы на странице **[Releases](https://github.com/FATnvStudio/zvukouluchshator/releases/latest)**. Внутри лежит подробная инструкция `INSTALL-*.txt`.
 
 <details>
 <summary><b>macOS</b> (Intel и Apple Silicon, macOS 11+): AU и VST3</summary>
@@ -88,7 +88,7 @@
 
 ## Проверено в
 
-Ableton Live 12 (macOS). Если плагин работает или не работает в вашей DAW, напишите в [Issues](https://github.com/koshkaasobakaa-max/zvukouluchshator/issues).
+Ableton Live 12 (macOS). Если плагин работает или не работает в вашей DAW, напишите в [Issues](https://github.com/FATnvStudio/zvukouluchshator/issues).
 
 ---
 
